@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>background.png</file>
+        <file>background.jpg</file>
+        <file>airplane.jpg</file>
+        <file>startscene.png</file>
+        <file>startGameBtn.png</file>
+        <file>bullet.png</file>
+        <file>bulletEnemy.png</file>
+        <file>enemyPlane.png</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>chanxin.mp3</file>
+    </qresource>
+</RCC>
